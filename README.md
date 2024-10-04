@@ -1,0 +1,1 @@
+# the codes of this repository are the result of a semester of work on numerical methods covering aspects such as: interpolation, approximation, solving differential equations, nonlinear equations and systems of linear equations 
